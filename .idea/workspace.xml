@@ -4,16 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74f25b24-18ae-4e9d-9710-a3f0f5517663" name="Changes" comment="ci file added" />
+    <list default="true" id="74f25b24-18ae-4e9d-9710-a3f0f5517663" name="Changes" comment="package.json file update">
+      <change beforePath="$PROJECT_DIR$/jest.setup.js" beforeDir="false" afterPath="$PROJECT_DIR$/jest.setup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/route.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/route.test.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feature/test_case" />
+        <entry key="$PROJECT_DIR$" value="test_case" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -35,6 +45,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -47,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1663590106586</updated>
       <workItem from="1663590107731" duration="72000" />
-      <workItem from="1663590298161" duration="1118000" />
+      <workItem from="1663590298161" duration="4093000" />
     </task>
     <task id="LOCAL-00001" summary="ci file">
       <created>1663590520775</created>
@@ -63,7 +74,56 @@
       <option name="project" value="LOCAL" />
       <updated>1663590819307</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="dockerfile added">
+      <created>1663591544459</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663591544459</updated>
+    </task>
+    <task id="LOCAL-00004" summary="dockerfile added">
+      <created>1663591806491</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663591806491</updated>
+    </task>
+    <task id="LOCAL-00005" summary="dockerfile added">
+      <created>1663592057696</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663592057696</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ci file added">
+      <created>1663592130672</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663592130672</updated>
+    </task>
+    <task id="LOCAL-00007" summary="package.json file modify">
+      <created>1663592467307</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1663592467307</updated>
+    </task>
+    <task id="LOCAL-00008" summary="jest setup file added">
+      <created>1663593635471</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1663593635471</updated>
+    </task>
+    <task id="LOCAL-00009" summary="package.json file update">
+      <created>1663593815058</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1663593815058</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,7 +142,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ci file" />
+    <MESSAGE value="dockerfile added" />
     <MESSAGE value="ci file added" />
-    <option name="LAST_COMMIT_MESSAGE" value="ci file added" />
+    <MESSAGE value="ci file modify" />
+    <MESSAGE value="package.json file modify" />
+    <MESSAGE value="jest setup file added" />
+    <MESSAGE value="package.json file update" />
+    <option name="LAST_COMMIT_MESSAGE" value="package.json file update" />
   </component>
 </project>

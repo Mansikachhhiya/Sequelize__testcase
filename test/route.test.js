@@ -13,6 +13,7 @@ describe("User Api test",()=> {
                 })
             expect(res.statusCode).toEqual(201)
             expect(res.body).toHaveProperty('user')
+            done()
         })
     it("Should get all user",async ()=>{
         const res = await request(app).get("/api/users")
