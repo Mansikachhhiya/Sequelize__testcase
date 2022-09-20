@@ -27,9 +27,6 @@ jobs:
           # If you are using yarn, change the line below from "npm" to "yarn"
           pkg-manager: npm
       - run:
-          name: Docker up
-          command: docker-compose up -d 
-      - run:
           name: Run tests
           command: npm test
 
