@@ -1,8 +1,8 @@
 const request = require("supertest");
 const app = require("../index");
 
-
 describe("User Api test",()=> {
+
         it("Should create a new user ", async () => {
             const res = await request(app).post("/api/users")
                 .send({
@@ -24,7 +24,6 @@ describe("User Api test",()=> {
         expect(res.statusCode).toEqual(200)
         expect(res.body).toHaveProperty("Users")
     })
-
   }
 
 )

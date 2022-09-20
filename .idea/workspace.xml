@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74f25b24-18ae-4e9d-9710-a3f0f5517663" name="Changes" comment="package.json file update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jest.setup.js" beforeDir="false" afterPath="$PROJECT_DIR$/jest.setup.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/route.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/route.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +48,13 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -59,6 +67,8 @@
       <updated>1663590106586</updated>
       <workItem from="1663590107731" duration="72000" />
       <workItem from="1663590298161" duration="4093000" />
+      <workItem from="1663647871310" duration="1051000" />
+      <workItem from="1663648930937" duration="4102000" />
     </task>
     <task id="LOCAL-00001" summary="ci file">
       <created>1663590520775</created>
@@ -123,7 +133,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663593815058</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="package.json file update">
+      <created>1663647934680</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1663647934680</updated>
+    </task>
+    <task id="LOCAL-00011" summary="package.json file update">
+      <created>1663648297989</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1663648297989</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
